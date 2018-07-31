@@ -5,7 +5,7 @@ using a H Bridge driver and an LED as well.
 [Click here for a complete description and demo.](https://devpost.com/software/weather-sense)
 
 # Capabilities  
-## OTAFU  
-## Remote Control  
-## Command Line Interface  
+#### OTAFU  
+#### Remote Control  
+#### Command Line Interface  
 
