@@ -8,7 +8,7 @@
 
 ### System Block Diagram
 
-![Block Diagram with Part Numbers]https://github.com/amansehgal0u2/IoT-Sensor-Board/blob/master/system.png
+![Block Diagram with Part Numbers](https://github.com/amansehgal0u2/IoT-Sensor-Board/blob/master/system.png)
 
 ## Inspiration
 I was inspired by the growing need to help farmers better plan and allocate their resources and provide effective and actionable information about all things weather around local spots on their farm. Use the weather sense node, a farmer can manage and care for their crops better by getting real time data about humidity, temperature and ambient light. This is particularly useful for vertical farms that grow food in an indoor setting with a tightly controlled climate that requires effective and efficient feedback. Vertical farms are important because they can provide fresh food without the need to waste resources on transportation and storage in order to cater to urban populations in metropolitan areas with a quick turnaround time. Imagine walking into a grocery store that grows its food right above ?!
