@@ -1,3 +1,5 @@
+[Demo video](https://www.youtube.com/watch?v=JwigiCEV78E)
+
 ## Hardware
 * ATSAMW25H18 system on module
 * RH/T and Ambient Light Sensor
