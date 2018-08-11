@@ -32,4 +32,6 @@ The data was sent using MQTT & TCP/IP over WiFi to an MQTT broker. The MQTT brok
 Every-time the device starts up from either a reset state or from a power cycle, the bootloader ensures the integrity of the firmware and also ensures that the firmware that has been downloaded is valid by using a crc checker. The bootloader is also responsible for upgrading the executing firmware by programming the on-chip flash with the firmware that was downloaded into the SPI flash. The device and be forced into boot mode by resetting the device while holding down the user button. This will lock the bootloader into boot mode. The bootloader check to see if the firmware write flag has been set and then decides to upgrade the firmware. It also logs the number of resets that have occurred due to a watch dog reset and if this crosses a set threshold, then the bootloader reverts to a golden image at the root of flash. 
 
 ## Memory Partition
-The off-chip flash is used See the last image in the carousel
+The off-chip flash is used to store multiple images of the main application code and also to download updated application firmware in order to upgrade the system firmware.
+
+![](https://github.com/amansehgal0u2/IoT-Sensor-Board/blob/master/memPartition.PNG "Off-chip flash partition")
