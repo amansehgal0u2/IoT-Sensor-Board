@@ -1,3 +1,5 @@
+[Demo video](https://www.youtube.com/watch?v=JwigiCEV78E)
+
 ## Hardware
 * ATSAMW25H18 system on module
 * RH/T and Ambient Light Sensor
@@ -6,6 +8,7 @@
 * Li-Po charger
 * 1MB off chip SPI flash
 
+[Hardware Description Overview video](https://www.youtube.com/watch?v=UQ9ZSJH73TM)
 ### System Block Diagram
 
 ![Block Diagram with Part Numbers](https://github.com/amansehgal0u2/IoT-Sensor-Board/blob/master/system.png)
